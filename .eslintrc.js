@@ -3,6 +3,7 @@ module.exports = {
         "eslint:recommended",
         "plugin:react/recommended",
         "prettier",
+        "plugin:storybook/recommended"
     ],
     plugins: [
         "react",
