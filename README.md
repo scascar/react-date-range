@@ -7,22 +7,7 @@
 
 A date library agnostic React component for choosing dates and date ranges. Uses [date-fns](http://date-fns.org/) for date operations.
 
-# Notice ⚠️
-This project is currently unmaintained because the original maintainers are busy with other things. It should be pretty stable in it's current state but we won't be updating it in the foreseeable future. **If you are willing to maintain it, please fork and open a pr adding your fork's link to this readme.**
-
-### Why should you use `react-date-range`?
-
-- Stateless date operations
-- Highly configurable
-- Multiple range selection
-- Based on native js dates
-- Drag n Drop selection
-- Keyboard friendly
-
-**Live Demo :** [http://hypeserver.github.io/react-date-range](http://hypeserver.github.io/react-date-range)
-
-![](https://raw.githubusercontent.com/hypeserver/react-date-range/master/demo/ss.png)
-
+This project is forked from [react-date-range](https://github.com/hypeserver/react-date-range).
 
 ## Getting Started
 ### Installation
