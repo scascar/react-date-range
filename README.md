@@ -9,6 +9,11 @@ A date library agnostic React component for choosing dates and date ranges. Uses
 
 This project is forked from [react-date-range](https://github.com/hypeserver/react-date-range).
 
+## Roadmap
+- [ ] Convert to TypeScript and modern React/libs(date-fns 4)
+- [ ] Add storybook
+- [ ] Convert tests
+
 ## Getting Started
 ### Installation
 
